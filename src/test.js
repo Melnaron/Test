@@ -4,4 +4,5 @@
 
 $(function() {
 	console.log('Document ready');
+	console.log('Hooray!');
 });
