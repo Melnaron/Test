@@ -3,7 +3,5 @@
  */
 
 $(function() {
-	console.log('Document ready');
-	console.log('Hooray!');
-	console.log('123');
+	console.log('ready to go!');
 });
