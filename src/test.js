@@ -3,5 +3,5 @@
  */
 
 $(function() {
-	console.log('ready to go!');
+	console.log('Ready to go!');
 });
